@@ -7,11 +7,12 @@ This repo contains:
 
 - [19cen_lit_vol1](19cen_lit_vol1): The Danish, German, English, Spanish, Polish, Russian, and Yiddish translations of volume 1 of Georg Brandes's "Main Currents in 19th-century Literature", separated by chapter
 - [A Jupyter notenbook](multilingual-brandes.ipynb): for doing word counts and generating the data for the visualization
-- [An output file](brandes_output.tsv): with the data for the visualization
-- [A Tableau workbook](multilingual-brandes-viz.twbx): with the visualization itself
+- [An output file](brandes_output.tsv): with the data for [the visualization](https://public.tableau.com/profile/quinn.dombrowski#!/vizhome/multilingual-brandes-viz/Sheet1)
+- [A Tableau workbook](multilingual-brandes-viz.twbx): with [the visualization](https://public.tableau.com/profile/quinn.dombrowski#!/vizhome/multilingual-brandes-viz/Sheet1) itself
 - [other_texts](other_texts): other Brandes translations, in various formats
 
 ![Multilingual brandes word count visualization](multilingual-brandes.png)
+See a live, interactive version [on Tableau Public](https://public.tableau.com/profile/quinn.dombrowski#!/vizhome/multilingual-brandes-viz/Sheet1).
 
 
 ### Corpus size
